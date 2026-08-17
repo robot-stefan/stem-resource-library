@@ -58,8 +58,14 @@ Looks at building electronics in R&D / startup settings to go from 0 to 1 in ele
 
 ### Software
 
+#### Deep Learning with Python 3rd Ed. ([book website](https://deeplearningwithpython.io) - ISBN: 978-1633436589) :mag:
+This book features an online option at [https://deeplearningwithpython.io/](https://deeplearningwithpython.io/) with jupyter notebooks. Note that for some options running these in the cloud with a service such as google colab might be the best route depending on your computers capabilities. 
+
+#### Foundations of Computer Vision ([book website](https://visionbook.mit.edu/)) - ISBN: 978-0262048972) :mag:
+This book features an online option at [https://visionbook.mit.edu/](https://visionbook.mit.edu/) with various code examples. It cover computer vision broadly and then dives into more and more complex aspects.  
+
 #### The Missing README ([open library](https://openlibrary.org/books/OL32475987M/The_Missing_README) - ISBN: 978-1718501836)
-A book on working in software team and building systems. Alot of this is also very applicable to hardware systems that are tightly couple with software. Some of the best practices and tips would be good to be adopted by college robotics efforts.  
+A book on working in software team and building systems. A lot of this is also very applicable to hardware systems that are tightly couple with software. Some of the best practices and tips would be good to be adopted by college robotics efforts.  
 
 #### The Art of Clean Code ([open library](https://openlibrary.org/books/OL34988587M/Art_of_Clean_Code) - ISBN: 978-1718502185)
 While this book covers programing, it has topics such as its chapter on the theme of premature optimization that are a universal thing to watch out for during development both in hardware and software.
@@ -79,7 +85,7 @@ You can download a [PDF edition](https://www.itl.nist.gov/div898/handbook/toolai
 #### Poor Man's Explanation of Kalman Filtering or How I Stopped Worrying & Learned to Love Matrix Inversion 
 A report by Roger M. du Plessis on actually implementing Kalman Filtering. 
 
-#### NASA Task Load Index (TLX) [NASA Human Systems Divison](https://www.nasa.gov/human-systems-integration-division/nasa-task-load-index-tlx/) :mag:
+#### NASA Task Load Index (TLX) ([NASA Human Systems Divison](https://www.nasa.gov/human-systems-integration-division/nasa-task-load-index-tlx/)) :mag:
 Tools for looking at human component of systems. 
 
 #### Just Enough Design ([open library](https://openlibrary.org/books/OL39710847M/Just_Enough_Design) - ISBN: 978-1797209906)
