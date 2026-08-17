@@ -31,8 +31,18 @@ A competing handbook to the Machinery's, this can have some decent intro pages a
 
 *Public Domain Note: Scans of early editions can be found online for example at the internet archive the [2nd ed. (1914)](https://archive.org/details/americanmachinis00colv/mode/2up) & [4th ed. (1926)](https://archive.org/details/americanmachinis0000unse_u0d5/mode/2up).*
 
+#### Five Hundred and Seven Mechanical Movements (ISBN: 978-1684227136) :mag:
+Illustrations showing a wide range of mechanical movements covering ropes, pulleys, chains, gears, linkages, etc. An online animated edition can be seen at [https://507movements.com/](https://507movements.com/). The ISBN in the title of this are to a more recent reprinting of the 1908 edition of this text whose first edition is from 1868. 
+
+*Public Domain Note: This book has a long expired copyright and a scan of the 1886 edition can be found on the [internet archive](https://archive.org/details/gri_33125007992064/mode/2up).*
+
+#### Mechanical Movements, Powers and Devices (ISBN: 978-0486457437) :mag:
+A slightly newer and larger competing resource to Five Hundred and Seven. The ISBN listed is for a more recent reprint under a different title. 
+
+*Public Domain Note: This book has a expired copyright and a scan of the 1914 edition can be found on the [internet archive](https://archive.org/details/mechanicalmoveme021hisc/mode/2up).*
+
 #### TM 1-425 Aircraft Mechanics Tools ([internet archive](https://archive.org/details/TM1-425/mode/2up)) :mag:
-Technical Manual produced by the War Department and Army Aviation in the 1940s covers a wide range of hand tools and their use for aircraft maintiance work. Many of the tools covered are typical hand tools such as screw drivers, hammers, sockets, thread gauges, drill bits, bench vises, clamps, files, taps, etc. 
+Technical Manual produced by the War Department and Army Aviation in the 1940s covers a wide range of hand tools and their use for aircraft maintenance work. Many of the tools covered are typical hand tools such as screw drivers, hammers, sockets, thread gauges, drill bits, bench vises, clamps, files, taps, etc. 
 
 *Public Domain Note: This is a work of the federal government and is in the public domain mirrored on the internet archive.*
 
