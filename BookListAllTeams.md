@@ -112,3 +112,12 @@ If your group is working with a drone (or some sort of flying robot for comp) th
 * [index](https://www.grc.nasa.gov/WWW/k-12/airplane/short.html)
 * [guided tour](https://www.grc.nasa.gov/WWW/k-12/airplane/guided.htm)
 * [new layout of topics](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/learn-about-aerodynamics/)
+
+#### Amesweb ([https://amesweb.info/](https://amesweb.info/)) :mag:
+Website with a number of engineering calculators. 
+
+#### Engineers Edge ([https://www.engineersedge.com/](https://www.engineersedge.com/)) :mag:
+Website with a number of calculators complimentary to amesweb.
+
+#### MatWeb ([https://matweb.com/](https://matweb.com/)) :mag:
+Website with a large catalog of material properties information. 
