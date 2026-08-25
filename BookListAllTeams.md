@@ -99,6 +99,8 @@ The authors website has a free variant of this book's content at [https://allend
 #### Think Java 2nd Ed. ([open library](https://openlibrary.org/books/OL34744763M/Think_Java) - ISBN:   978-1492072508) :mag: :bookmark_tabs:
 The authors website has a free variant of this book's content at [https://books.trinket.io/thinkjava2/](https://books.trinket.io/thinkjava2/) & also [https://greenteapress.com/wp/think-java-2e/](https://greenteapress.com/wp/think-java-2e/). The book has a similar approach to Think Python (by the same author).  
 
+*Note: Both books have a similar approach to two different programming languages. Complex projects typically will use multiple languages across different subsystems. Both books can also allow an individual to see that many languages can be fundamentally similar yet different at the same time. Books for C & C++ in the style of Think can be found at [https://greenteapress.com/wp/think-c/](https://greenteapress.com/wp/think-c/) in a digital form.*
+
 #### Python Crash Course 3rd Ed. ([open library](https://openlibrary.org/books/OL38327872M/Python_Crash_Course_3rd_Edition) - ISBN: 978-1718502703)
 Another python intro text that uses projects to introduce programming concepts.  
 
