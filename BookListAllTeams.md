@@ -109,7 +109,7 @@ Covers how to use jupyter notebooks for instruction. These can be set up so that
 #### Business Model Generation ([open library](https://openlibrary.org/books/OL25336560M/Business_Model_Generation) - ISBN: 978-0470876411) :bookmark_tabs:
 A highly visual book on business workings, dynamics, and entrepreneurship fundamentals. This can be used to connect organizational aspects of a robotics team to business concepts.
 
-### Value Proposition Design ([open library](https://openlibrary.org/books/OL27170722M/Value_proposition_design) - ISBN: 978-1118968055) :bookmark_tabs:
+#### Value Proposition Design ([open library](https://openlibrary.org/books/OL27170722M/Value_proposition_design) - ISBN: 978-1118968055) :bookmark_tabs:
 Follow on book to Business Model Generation. This takes the business model canvas further.
 
 #### NASA Glenn Research Center - Aerodynamics for k-12 ([website](https://www.grc.nasa.gov/WWW/k-12/airplane/index.html)) :mag:
