@@ -13,10 +13,11 @@ The following areas comprising this focus:
 -	Software / Programming
 -	Sensing & Perception
 -	Systems & Testing
--   Career & Team 
+- Career & Team 
 
-
-### [Book List](BookList.md)
+### Sections
+1. [Books](/Books/README.md)
+2. [Tables](/Tables/README.md)
 
 
 #### Additional Background
