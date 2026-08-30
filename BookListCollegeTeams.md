@@ -43,6 +43,9 @@ A 1930s text with step by step work instructions and illustrations showing the u
 #### Timken Engineering Manual ([timken website](https://engineering.timken.com/wp-content/uploads/2024/08/Timken-Engineering-Manual.pdf)) :mag:
 Manual covering use of Timken bearing products and applications. 
 
+#### NASA Fastener Design Manual NASA-RP-1228 ([NTRS](https://ntrs.nasa.gov/citations/19900009424)) :mag:
+Guide for selecting fastening methods that covers various trade-offs and considerations. 
+
 ### Electrical 
 
 #### The Art of Electronics 3rd Ed.  ([open library](https://openlibrary.org/books/OL26462574M/The_art_of_electronics) - ISBN: 978-0521809269)
