@@ -1,6 +1,10 @@
 ## Wire Size AWG to Metric Comparison 
-Compare AWG side to metric area cross section. 
+Compare American Wire Gage side to metric area cross section. A good overview of AWG size can be found on [wikipedia's American Wire Gauge page](https://en.wikipedia.org/wiki/American_wire_gauge).
 
+### AWG to Diameter
+$`d_{inches}(N_{awg})=0.005*92^{ (36-N_{awg})/39} `$
+
+### Table 0 to 40 AWG 
 | AWG | Diameter (in) | Diameter (mm) | Area (mm^2) |
 | --- | --- | --- | --- |
 | 0 | 0.3249 | 8.251 | 53.475 |
