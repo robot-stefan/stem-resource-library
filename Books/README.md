@@ -10,5 +10,6 @@ This book list covers all books and other such resources. Split into two broad s
 2. [College Teams](BookListCollegeTeams.md)
 
 ### Sourcing Books
-A combination of eBay, Amazon, ThriftBooks, AbeBooks, etc was used to source most of these as used. A number of the books listed are out of print or older editions only available used. 
-A prompt for use with AI tools and agents such as chatgpt which does basket optimization to help find the lowest cost route for ordering including shipping the books can found at [Book Sourcing Prompt](BookSourcingPrompt.md). This prompt is not perfect so you should spot check prices with newer editions or new options. 
+- [Book Sourcing Prompt](BookSourcingPrompt.md)
+
+A combination of eBay, Amazon, ThriftBooks, AbeBooks, etc was utilized to source most of these as used. A number of the books listed are out of print or older editions only available used. A prompt, for use with AI tools and agents such as chatgpt, which does basket optimization to help find the lowest cost route for ordering including shipping was built. This prompt is not perfect so you should spot check prices with newer editions or new options, but it does greatly improve the process of ordering the set.  
