@@ -100,13 +100,16 @@ When designing and engineering systems can we leverage concepts of just enough t
 On being an engineer, solving problems and how technology and innovation are in a constant cycle.
 
 #### Sunburst and Luminary ([open library](https://openlibrary.org/books/OL29463359M/Sunburst_and_Luminary) - ISBN: 978-0986385933)
-Covers the post college journey of an engineer who wrote apollo guidance software. 
+Covers the post college journey of an engineer who wrote apollo guidance software.
+
+#### Pieces of The Action ([open library](https://openlibrary.org/books/OL36843172M/Pieces_of_the_Action) - ISBN: 978-1953953209)
+Part autobiography and part historical account of successes and pitfalls on building innovation ecosystems. 
 
 #### An Elegant Puzzle: Systems of Engineering Management ([open library](https://openlibrary.org/books/OL27905593M/An_Elegant_Puzzle) - ISBN: 978-1732265189)
 Covers topics around managing engineering teams of various sizes at different types of companies from software and web lens.
 
 #### The Innovators Dilemma ([open library](https://openlibrary.org/books/OL26432023M/The_Innovator's_Dilemma) - ISBN: 978-1633691780)
-A classic book on how innovative market entrants can win against established players. 
+A classic book on how innovative market entrants can win against established players. I do believe that a companion book to this called the adopters dilemma should one day be written. 
 
 #### Practical Doomsday ([open library](https://openlibrary.org/books/OL34988565M/Practical_Doomsday) - ISBN: 978-1718502123)
 Covers preparing for everyday and prevention allowing road bumps to be minor time sinks. 
