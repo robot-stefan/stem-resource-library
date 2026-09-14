@@ -38,7 +38,7 @@ Illustrations showing a wide range of mechanical movements covering ropes, pulle
 
 *Public Domain Note: This book has a long expired copyright and a scan of the 1886 edition can be found on the [internet archive](https://archive.org/details/gri_33125007992064/mode/2up).*
 
-#### Mechanical Movements, Powers and Devices ([open library](http://openlibrary.org/books/OL20543572M) - ISBN: 978-0486457437) :mag:
+#### Mechanical Movements, Powers and Devices ([open library](https://openlibrary.org/books/OL6596719M/Mechanical_movements_powers_and_devices) - ISBN: 978-0486457437) :mag:
 A slightly newer and larger competing resource to Five Hundred and Seven. The ISBN listed is for a more recent reprint under a different title. 
 
 *Public Domain Note: This book has a expired copyright and a scan of the 1914 edition can be found on the [internet archive](https://archive.org/details/mechanicalmoveme021hisc/mode/2up).*
