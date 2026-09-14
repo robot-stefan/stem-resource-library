@@ -33,12 +33,12 @@ A competing handbook to the Machinery's, this can have some decent intro pages a
 
 *Public Domain Note: Scans of early editions can be found online for example at the internet archive the [2nd ed. (1914)](https://archive.org/details/americanmachinis00colv/mode/2up) & [4th ed. (1926)](https://archive.org/details/americanmachinis0000unse_u0d5/mode/2up).*
 
-#### Five Hundred and Seven Mechanical Movements (ISBN: 978-1684227136) :mag:
+#### Five Hundred and Seven Mechanical Movements ([open library](https://openlibrary.org/books/OL7117202M/Five_hundred_and_seven_mechanical_movements_...) - ISBN: 978-1684227136) :mag:
 Illustrations showing a wide range of mechanical movements covering ropes, pulleys, chains, gears, linkages, etc. An online animated edition can be seen at [https://507movements.com/](https://507movements.com/). The ISBN in the title of this are to a more recent reprinting of the 1908 edition of this text whose first edition is from 1868. 
 
 *Public Domain Note: This book has a long expired copyright and a scan of the 1886 edition can be found on the [internet archive](https://archive.org/details/gri_33125007992064/mode/2up).*
 
-#### Mechanical Movements, Powers and Devices (ISBN: 978-0486457437) :mag:
+#### Mechanical Movements, Powers and Devices ([open library](http://openlibrary.org/books/OL20543572M) - ISBN: 978-0486457437) :mag:
 A slightly newer and larger competing resource to Five Hundred and Seven. The ISBN listed is for a more recent reprint under a different title. 
 
 *Public Domain Note: This book has a expired copyright and a scan of the 1914 edition can be found on the [internet archive](https://archive.org/details/mechanicalmoveme021hisc/mode/2up).*
@@ -66,7 +66,7 @@ This is a good quick primer on different printing technologies in the context of
 #### Practical Sheet And Plate Metal Work ([open library](https://openlibrary.org/works/OL255637W/Practical_sheet_and_plate_metal_work?edition=)) :mag:
 An application focused book on doing sheet metal work. It covers layout and templates with applications covering duct work, roofs, boxes, gutter, tanks, etc. It also covers considerations for riveting, brazing, and surface treatment.
 
-*Public Domain Note: This book has multiple editions with a expired copyright available on the internet archive / open library.*
+*Public Domain Note: This book has multiple editions with a expired copyright available on the internet archive.*
 
 ### Electrical
 #### Motors for Makers ([open library](https://openlibrary.org/books/OL27200092M/Motors_for_makers) - ISBN: 978-0134032832) :bookmark_tabs:
@@ -92,10 +92,10 @@ This volume is the more important of the three for high school robotics as often
 #### Wiring and Cable Designer's Handbook ([open library](https://openlibrary.org/books/OL2728997M/Wiring_and_cable_designer%27s_handbook) - ISBN: 0-8306-2720-0) :bookmark_tabs:
 Portions of this are bit dated from the 1980s (so it can lack discussion on newer materials & standards), but sections like Chapter 5 on Manufacturing Procedures is still incredibly relevant for example covering assembly, routing, the use of ties & clips, etc. Other chapters still hold up well too such as 3, 6, 8, 10, 12, 13. 
 
-#### NASA Training Program Student Workbook for Soldering Training ([NASA](https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/NASA%20Student%20Handbook%20for%20Hand%20Soldering.pdf)) :mag:
+#### NASA Training Program Student Workbook for Soldering Training ([internet archive](https://archive.org/details/nasa-student-workbook-for-hand-soldering) - [NASA](https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/NASA%20Student%20Handbook%20for%20Hand%20Soldering.pdf)) :mag:
 A training workbook and course for soldering in accordance with NASA-STD-8739.3
 
-*Public Domain Note: This is a work of the federal government and is in the public domain hosted on the [NASA SSRI KB website](https://s3vi.ndc.nasa.gov/ssri-kb/).*
+*Public Domain Note: This is a work of the federal government and is in the public domain mirrored on the [internet archive](https://archive.org/details/nasa-student-workbook-for-hand-soldering).*
 
 #### NASA Hand Soldering Training to NHB 5300.4(3A-2) ([internet archive](https://archive.org/details/NASA_Hand_Solder_Training/mode/2up)) :mag:
 Slides to help with soldering training. Showing quality objectives. This is for a standard that predates 8739 series, but has good images that are still relevant for instruction.
