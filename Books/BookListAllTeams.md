@@ -63,6 +63,11 @@ Included with most Swanson speed squares. This covers various ways to use a spee
 #### Basics of 3D Printing with Josef Prusa ([prusa e-book](https://www.prusa3d.com/page/basics-of-3d-printing-with-josef-prusa_490/)) :mag:
 This is a good quick primer on different printing technologies in the context of prusa's product line. It has some good visuals and gives a wide overview of 3d scanning, modeling, slicing, print settings, etc. It’s a good place to start if someone has never seen or experimented with 3d printing. Prusa's manuals / handbooks for their various printers are also well laid out and can offer a follow-on look at 3d printing operations, machine settings, etc. Their build guides can also act in a way to help illustrate how these systems (and really any CNC style manufacturing) are somewhat similar fundamentally to robots students build. 
 
+#### Practical Sheet And Plate Metal Work ([open library](https://openlibrary.org/works/OL255637W/Practical_sheet_and_plate_metal_work?edition=)) :mag:
+An application focused book on doing sheet metal work. It covers layout and templates with applications covering duct work, roofs, boxes, gutter, tanks, etc. It also covers considerations for riveting, brazing, and surface treatment.
+
+*Public Domain Note: This book has multiple editions with a expired copyright available on the internet archive / open library.*
+
 ### Electrical
 #### Motors for Makers ([open library](https://openlibrary.org/books/OL27200092M/Motors_for_makers) - ISBN: 978-0134032832) :bookmark_tabs:
 A good overview of various motors you will find on robotic platforms as wells as different gear drives. The book has a few lab projects that could be built as well. 
