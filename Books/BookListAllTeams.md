@@ -92,6 +92,16 @@ This volume is the more important of the three for high school robotics as often
 #### Wiring and Cable Designer's Handbook ([open library](https://openlibrary.org/books/OL2728997M/Wiring_and_cable_designer%27s_handbook) - ISBN: 0-8306-2720-0) :bookmark_tabs:
 Portions of this are bit dated from the 1980s (so it can lack discussion on newer materials & standards), but sections like Chapter 5 on Manufacturing Procedures is still incredibly relevant for example covering assembly, routing, the use of ties & clips, etc. Other chapters still hold up well too such as 3, 6, 8, 10, 12, 13. 
 
+#### NASA Training Program Student Workbook for Soldering Training ([NASA](https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/NASA%20Student%20Handbook%20for%20Hand%20Soldering.pdf)) :mag:
+A training workbook and course for soldering in accordance with NASA-STD-8739.3
+
+*Public Domain Note: This is a work of the federal government and is in the public domain hosted on the [NASA SSRI KB website](https://s3vi.ndc.nasa.gov/ssri-kb/).*
+
+#### NASA Hand Soldering Training to NHB 5300.4(3A-2) ([internet archive](https://archive.org/details/NASA_Hand_Solder_Training/mode/2up)) :mag:
+Slides to help with soldering training. Showing quality objectives. This is for a standard that predates 8739 series, but has good images that are still relevant for instruction.
+
+*Public Domain Note: This is a work of the federal government and is in the public domain mirrored on the internet archive.*
+
 ### Software
 #### Automate the Boring Stuff 3rd Ed. ([open library](https://openlibrary.org/books/OL50718345M/Automate_the_Boring_Stuff_with_Python_3rd_Edition) - ISBN: 978-1718503403) :mag:
 The authors website has a free variant of the books contents at [https://automatetheboringstuff.com/](https://automatetheboringstuff.com/). This book is a good quick jump in python and software concepts. It uses simple projects to explore coding. 
