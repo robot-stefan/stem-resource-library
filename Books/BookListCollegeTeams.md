@@ -35,7 +35,7 @@ Technical Manual produced by the War Department and Army Aviation in the 1940s c
 
 *Public Domain Note: This is a work of the federal government and is in the public domain mirrored on the internet archive.*
 
-#### Machine Shop Operations by American Technical Society ([open library](https://openlibrary.org/works/OL7606852W/Machine_shop_operations_..))
+#### Machine Shop Operations by American Technical Society ([open library](https://openlibrary.org/books/OL62548853M/Machine_shop_operations_..))
 A 1930s text with step by step work instructions and illustrations showing the use of engine lathes, knee mills, centerless grinders, etc. to do common manufacturing jobs. All manual with no automation. Illustrations are simple and direct. These can be used to also show tool access for needed machining operations. This aspect is still relevant today even in a CNC automation world and is a fundamental consideration of design for manufacturing. 
 
 #### Foundations of Mechanical Accuracy ([open library](https://openlibrary.org/books/OL10237334M/Foundations_of_Mechanical_Accuracy))
