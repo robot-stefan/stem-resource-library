@@ -14,7 +14,7 @@
 #### Physics - High School ([open stax](https://openstax.org/details/books/physics) - ISBN: 978-1951693213) :mag:
 A free downloadable physics text book. 
 
-#### Machinery's Handbook 22nd Ed. ([open library](https://openlibrary.org/books/OL9864443M/Machinery_Handbook_Guide_to_the_Use_of) - ISBN: 0-8311-1155-0) :mag: :bookmark_tabs:
+#### Machinery's Handbook 22nd Ed. ([open library](https://openlibrary.org/books/OL62549132M/Machinerys_Handbook) - ISBN: 0-8311-1155-0) :mag: :bookmark_tabs:
 A comprehensive reference covering wide aspects of manufacturing and engineering. This is a reference and not an introductory text. It should be combined with other introductory knowledge for best benefit.
 - Special Note for High School: I picked the 22nd as I was able to find multiple copies of that edition and its guide on eBay. Pick any edition after the 20th for use with high school groups. The 23rd and up editions have better organized table of contents grouping topics into related sections.  
 - Special Note for College: Try to find a WW2 era copy, for example an 11th or 12th and a modern copy such as the 24th or newer, these editions will have more CNC info in them. If you can source the 32nd copy, just get that and a WW2 era. The 32nd also includes topics on 3d printing.
@@ -28,7 +28,7 @@ This is a guidebook to the Machinery's Handbook it has example problems and show
 #### Geo-Metrics III ([open library](https://openlibrary.org/books/OL1418500M/Geo-metrics_III) - ISBN: 0-201-63342-6) :bookmark_tabs:
 Has good visuals showing the application of GD&T and can give students exposure to engineering drawings concepts. Most of what is in here from an application standpoint is beyond high school, but this is based on the 1990s drawing standard making it a low-cost way to provide exposure with its illustrations and the way it visually communicates fundamentals. I was able to find a copy of this for 1/10th the price of the current version of ASME Y14.5M 
 
-#### American Machinists' Handbook 7th Ed. (1940 - [open library](https://openlibrary.org/books/OL14599319M/American_machinists'_handbook_and_dictionary_of_shop_terms)) or 8th (1945) :mag: :bookmark_tabs:
+#### American Machinists' Handbook 7th Ed. (1940 - [open library](https://openlibrary.org/books/OL14599319M/American_machinists'_handbook_and_dictionary_of_shop_terms) or 8th (1945) :mag: :bookmark_tabs:
 A competing handbook to the Machinery's, this can have some decent intro pages at the start of its sections and a better set of illustrations for some topics. The last printing of this was the New American Machinists Handbook [open library](https://openlibrary.org/works/OL19603549W/The_new_American_machinist's_handbook) in the 1950s. The way this handbook starts off the section on gears for example is better than the Machinery's. The end of each edition features a dictionary of shop terms with numerous illustrations and diagrams to define common items. 
 
 *Public Domain Note: Scans of early editions can be found online for example at the internet archive the [2nd ed. (1914)](https://archive.org/details/americanmachinis00colv/mode/2up) & [4th ed. (1926)](https://archive.org/details/americanmachinis0000unse_u0d5/mode/2up).*
