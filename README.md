@@ -18,6 +18,7 @@ The following areas comprising this focus:
 ### Sections
 1. [Books](/Books/README.md)
 2. [Tables](/Tables/README.md)
+3. [Tutorials](TutorialsList.md)
 
 
 #### Additional Background
