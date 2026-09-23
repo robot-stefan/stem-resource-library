@@ -63,6 +63,11 @@ A NASA requirements document that predates the pictoral reference and the standa
 
 *Public Domain Note: This is a work of the federal government and is in the public domain accessible at the [NASA Technical Reports  Server](https://ntrs.nasa.gov/citations/19930003486).*
 
+#### USAF Manual 52-8 Electronics Circuit Analysis ([internet archive](https://archive.org/details/fundamentals-of-electronics/AFM52-8%20%20Electronic%20Circuit%20Analysis%201962%20817-PG/mode/2up))
+A more in-depth circuits book from the air force compared to the one on the all teams list. 
+
+*Public Domain Note: This is a work of the federal government and is in the public domain mirrored on the internet archive.*
+
 ### Software
 
 #### Deep Learning with Python 3rd Ed. ([book website](https://deeplearningwithpython.io) - ISBN: 978-1633436589) :mag:
