@@ -102,6 +102,11 @@ Slides to help with soldering training. Showing quality objectives. This is for 
 
 *Public Domain Note: This is a work of the federal government and is in the public domain mirrored on the internet archive.*
 
+#### USAF Manual 101-8 Fundamentals of Electronics ([internet archive](https://archive.org/details/fundamentals-of-electronics/Fundamentals_of_Electronics/mode/2up)) :mag:
+Covers electronics starting from circuit basics, DC, AC, and then goes into radar fundamentals. It takes the approach of presenting info for navigators and has a good set of illustrations which can help to introduce the topics quickly. 
+
+*Public Domain Note: This is a work of the federal government and is in the public domain mirrored on the internet archive.*
+
 ### Software
 #### Automate the Boring Stuff 3rd Ed. ([open library](https://openlibrary.org/books/OL50718345M/Automate_the_Boring_Stuff_with_Python_3rd_Edition) - ISBN: 978-1718503403) :mag:
 The authors website has a free variant of the books contents at [https://automatetheboringstuff.com/](https://automatetheboringstuff.com/). This book is a good quick jump in python and software concepts. It uses simple projects to explore coding. 
