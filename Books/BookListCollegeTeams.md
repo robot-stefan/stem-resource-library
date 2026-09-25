@@ -58,12 +58,12 @@ Looks at building electronics in R&D / startup settings to go from 0 to 1 in ele
 
 #### The Book of I2C ([open library](https://openlibrary.org/books/OL38327873M/Book_of_I%C2%B2C) - ISBN: 978-1718502468)
 
-#### NASA Requirements for Soldered Electrical Connections NHB-5300.4(3A-2)
+#### NASA Requirements for Soldered Electrical Connections NHB-5300.4(3A-2) :mag:
 A NASA requirements document that predates the pictoral reference and the standards it accompanies. This focuses only on soldering. It is also a good example of requirements and technical writing. 
 
 *Public Domain Note: This is a work of the federal government and is in the public domain accessible at the [NASA Technical Reports  Server](https://ntrs.nasa.gov/citations/19930003486).*
 
-#### USAF Manual 52-8 Electronics Circuit Analysis ([internet archive](https://archive.org/details/fundamentals-of-electronics/AFM52-8%20%20Electronic%20Circuit%20Analysis%201962%20817-PG/mode/2up))
+#### USAF Manual 52-8 Electronics Circuit Analysis ([internet archive](https://archive.org/details/fundamentals-of-electronics/AFM52-8%20%20Electronic%20Circuit%20Analysis%201962%20817-PG/mode/2up)) :mag:
 A more in-depth circuits book from the air force compared to the one on the all teams list. 
 
 *Public Domain Note: This is a work of the federal government and is in the public domain mirrored on the internet archive.*
