@@ -27,3 +27,7 @@ Compares AWG to metric cross section sizes.
 
 #### Molex Visual Inspection of Crimped Terminals ([link to chart](https://www.mouser.com/pdfDocs/MolexCrimpingUpdateEnglish.pdf))
 Chart showing visual examples of acceptable and reject crimps for closed and open barrel terminals. 
+
+### System & Design
+#### Requirements ([link to chart](RequirementsTable.md))
+Example of a simple table to manage requirements when designing or building a system. 
