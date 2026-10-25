@@ -66,7 +66,7 @@ This is a good quick primer on different printing technologies in the context of
 #### Practical Sheet And Plate Metal Work ([open library](https://openlibrary.org/works/OL255637W/Practical_sheet_and_plate_metal_work?edition=)) :mag:
 An application focused book on doing sheet metal work. It covers layout and templates with applications covering duct work, roofs, boxes, gutter, tanks, etc. It also covers considerations for riveting, brazing, and surface treatment.
 
-*Public Domain Note: This book has multiple editions with a expired copyright available on the internet archive.*
+*Public Domain Note: This book has multiple editions with a expired copyright available on the [internet archive](https://archive.org/details/practicalsheetpl00atkirich/mode/2up).*
 
 ### Electrical
 #### Motors for Makers ([open library](https://openlibrary.org/books/OL27200092M/Motors_for_makers) - ISBN: 978-0134032832) :bookmark_tabs:
