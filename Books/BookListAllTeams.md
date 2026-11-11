@@ -13,6 +13,10 @@
 ### Mechanical
 #### Physics - High School ([open stax](https://openstax.org/details/books/physics) - ISBN: 978-1951693213) :mag:
 A free downloadable physics text book. 
+#### Basic Machines and How They Work ([open library](https://openlibrary.org/works/OL8249575W/Basic_Machines_and_How_They_Work)) - ISBN: 978-0486166322) :mag:
+A reprint of Basic Machines originally prepared by the Department of the Navy for Navy Training Course [NAVPERS 10624-A](https://archive.org/details/BasicMachines10624/mode/2up). This has a good and simple walkthrough of basic machines starting with levers and ending with power trains and gearing. 
+
+*Public Domain Note: This is a work of the federal government and is in the public domain mirrored on the internet archive.*
 
 #### Machinery's Handbook 22nd Ed. ([open library](https://openlibrary.org/books/OL62549132M/Machinerys_Handbook) - ISBN: 0-8311-1155-0) :mag: :bookmark_tabs:
 A comprehensive reference covering wide aspects of manufacturing and engineering. This is a reference and not an introductory text. It should be combined with other introductory knowledge for best benefit.
