@@ -6,7 +6,7 @@ A listing of various helpful tables and charts. I have found printing a few of t
 A list of drill bits Number 80 to 1 inch. 
 
 #### Bob May Astronomy Drill Bit Master Chart ([internet archive](https://web.archive.org/web/20230321173000/https://bobmay.astronomy.net/misc/drillchart.htm))
-This is a great simple master list of all drill bits up to 1 in.  A link to the internet archive is provided as this sit is no loner accessible. 
+This is a great simple master list of all drill bits up to 1 in.  A link to the internet archive is provided as this site is no longer accessible. 
 
 #### LittleMachineShop Tap & Clearance Drill Sizes ([LittleMachineShop](https://littlemachineshop.com/pages/tap-clearance-drill-sizes))
 The printable chart covers both inch and metric.  
