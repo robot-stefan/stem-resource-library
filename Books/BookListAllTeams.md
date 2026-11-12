@@ -12,7 +12,8 @@
 
 ### Mechanical
 #### Physics - High School ([open stax](https://openstax.org/details/books/physics) - ISBN: 978-1951693213) :mag:
-A free downloadable physics text book. 
+A free downloadable physics text book.
+
 #### Basic Machines and How They Work ([open library](https://openlibrary.org/works/OL8249575W/Basic_Machines_and_How_They_Work)) - ISBN: 978-0486166322) :mag:
 A reprint of Basic Machines originally prepared by the Department of the Navy for Navy Training Course [NAVPERS 10624-A](https://archive.org/details/BasicMachines10624/mode/2up). This has a good and simple walkthrough of basic machines starting with levers and ending with power trains and gearing. 
 
@@ -46,6 +47,11 @@ Illustrations showing a wide range of mechanical movements covering ropes, pulle
 A slightly newer and larger competing resource to Five Hundred and Seven. The ISBN listed is for a more recent reprint under a different title. 
 
 *Public Domain Note: This book has a expired copyright and a scan of the 1914 edition can be found on the [internet archive](https://archive.org/details/mechanicalmoveme021hisc/mode/2up).*
+
+#### Hand Tools ([internet archive](https://archive.org/details/HandTools1944/mode/2up)) :mag:
+A Navy training course on hand tools from 1944. This course has the tools split up by function and covers fastening, drilling, tapping, cutting, soldering, and measurement. 
+
+*Public Domain Note: This is a work of the federal government and is in the public domain mirrored on the internet archive.*
 
 #### TM 1-425 Aircraft Mechanics Tools ([internet archive](https://archive.org/details/TM1-425/mode/2up)) :mag:
 Technical Manual produced by the War Department and Army Aviation in the 1940s covers a wide range of hand tools and their use for aircraft maintenance work. Many of the tools covered are typical hand tools such as screw drivers, hammers, sockets, thread gauges, drill bits, bench vises, clamps, files, taps, etc. 
