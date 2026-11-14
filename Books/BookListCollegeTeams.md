@@ -51,7 +51,7 @@ Guide for selecting fastening methods that covers various trade-offs and conside
 #### The Art of Electronics 3rd Ed.  ([open library](https://openlibrary.org/books/OL26462574M/The_art_of_electronics) - ISBN: 978-0521809269)
 An accessible text book on electronics starting from the basics and moving toward much more advanced topics. There are follow on books covering lab exercises and additional technical content in this series. 
 
-#### Troubleshooting Analog Circuits ([open library](https://openlibrary.org/books/OL1534119M/Troubleshooting_analog_circuits) - ISBN: 978-0750691840)
+#### Troubleshooting Analog Circuits ([open library](https://openlibrary.org/books/OL23029895M/Troubleshooting_Analog_Circuits) - ISBN: 978-0750691840)
 
 #### Designing Electronics That Work ([open library](https://openlibrary.org/books/OL50630058M/Designing_Electronics_That_Work) - ISBN: 978-1718503366)
 Looks at building electronics in R&D / startup settings to go from 0 to 1 in electronics hardware. I worked with the author in college pulling quite a few all nighters building robots. A few of the lessons learned and failures mentioned I too experienced.  
